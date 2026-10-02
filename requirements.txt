@@ -1,0 +1,28 @@
+# Python 3.10+. Versions are not pinned yet.
+# TODO: after a clean run, replace with exact versions (pip freeze > requirements.txt)
+numpy
+pandas
+openpyxl
+xlrd
+scipy
+statsmodels
+scikit-learn
+xgboost
+catboost
+optuna
+shap
+matplotlib
+seaborn
+geopandas
+fiona
+shapely
+mapclassify
+libpysal
+esda
+pysal
+contextily
+matplotlib-scalebar
+rioxarray
+xarray
+graphviz
+requests

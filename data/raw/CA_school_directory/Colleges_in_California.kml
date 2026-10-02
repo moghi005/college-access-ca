@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Colleges in California</name>
+    <description><![CDATA[Blue = Public<br>Black = Private]]></description>
+    <Style id="icon-1899-000000-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-000000-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Colleges in California</name>
+      <Placemark>
+        <name>Academy of Art University</name>
+        <description><![CDATA[Lat: 37.787943<br>Lon: -122.400578]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.787943</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.400578</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.400578,37.787943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>American Jewish University</name>
+        <description><![CDATA[Lat: 34.128153<br>Lon: -118.471706]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.128153</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.471706</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.471706,34.128153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azusa Pacific University</name>
+        <description><![CDATA[Lat: 34.130047<br>Lon: -117.888375]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.130047</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.888375</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.888375,34.130047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biola University</name>
+        <description><![CDATA[Lat: 33.906203<br>Lon: -118.014374]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.906203</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.014374</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.014374,33.906203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brandman University</name>
+        <description><![CDATA[Lat: 33.656401<br>Lon: -117.769012]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.656401</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.769012</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.769012,33.656401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California Baptist University</name>
+        <description><![CDATA[Lat: 33.929321<br>Lon: -117.425619]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.929321</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.425619</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.425619,33.929321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California College of the Arts</name>
+        <description><![CDATA[Lat: 37.767485<br>Lon: -122.399451]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.767485</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.399451</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.399451,37.767485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California Institute of Technology</name>
+        <description><![CDATA[Lat: 34.137349<br>Lon: -118.125878]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.137349</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.125878</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.125878,34.137349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California Institute of the Arts</name>
+        <description><![CDATA[Lat: 34.39327<br>Lon: -118.566837]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.39327</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.566837</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.566837,34.39327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California Lutheran University</name>
+        <description><![CDATA[Lat: 34.224566<br>Lon: -118.878924]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.224566</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.878924</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.878924,34.224566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California Miramar University</name>
+        <description><![CDATA[Lat: 32.77942<br>Lon: -117.11851]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>32.77942</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.11851</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.11851,32.77942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California Polytechnic State University</name>
+        <description><![CDATA[Lat: 35.299513<br>Lon: -120.657311]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>35.299513</value>
+          </Data>
+          <Data name="Lon">
+            <value>-120.657311</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -120.657311,35.299513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California Polytechnic State University, Pomona</name>
+        <description><![CDATA[Lat: 34.057912<br>Lon: -117.821476]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.057912</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.821476</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.821476,34.057912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University Maritime Academy</name>
+        <description><![CDATA[Lat: 38.069061<br>Lon: -122.231551]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>38.069061</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.231551</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.231551,38.069061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, Bakersfield</name>
+        <description><![CDATA[Lat: 35.350005<br>Lon: -119.104711]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>35.350005</value>
+          </Data>
+          <Data name="Lon">
+            <value>-119.104711</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -119.104711,35.350005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, Channel Islands</name>
+        <description><![CDATA[Lat: 34.162949<br>Lon: -119.04356]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.162949</value>
+          </Data>
+          <Data name="Lon">
+            <value>-119.04356</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -119.04356,34.162949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, Chico</name>
+        <description><![CDATA[Lat: 39.729712<br>Lon: -121.844859]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>39.729712</value>
+          </Data>
+          <Data name="Lon">
+            <value>-121.844859</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.844859,39.729712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, Dominguez Hills</name>
+        <description><![CDATA[Lat: 33.864766<br>Lon: -118.255917]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.864766</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.255917</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.255917,33.864766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, East Bay</name>
+        <description><![CDATA[Lat: 37.657694<br>Lon: -122.054135]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.657694</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.054135</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.054135,37.657694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, Fresno</name>
+        <description><![CDATA[Lat: 36.811154<br>Lon: -119.744569]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.811154</value>
+          </Data>
+          <Data name="Lon">
+            <value>-119.744569</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -119.744569,36.811154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, Fullerton</name>
+        <description><![CDATA[Lat: 33.881506<br>Lon: -117.885446]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.881506</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.885446</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.885446,33.881506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, Long Beach</name>
+        <description><![CDATA[Lat: 33.782818<br>Lon: -118.11204]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.782818</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.11204</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.11204,33.782818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, Los Angeles</name>
+        <description><![CDATA[Lat: 34.066927<br>Lon: -118.168965]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.066927</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.168965</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.168965,34.066927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, Monterey Bay</name>
+        <description><![CDATA[Lat: 36.652397<br>Lon: -121.796178]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.652397</value>
+          </Data>
+          <Data name="Lon">
+            <value>-121.796178</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.796178,36.652397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, Northridge</name>
+        <description><![CDATA[Lat: 34.240126<br>Lon: -118.529319]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.240126</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.529319</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.529319,34.240126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, Sacramento</name>
+        <description><![CDATA[Lat: 38.559415<br>Lon: -121.423549]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>38.559415</value>
+          </Data>
+          <Data name="Lon">
+            <value>-121.423549</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.423549,38.559415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, San Bernardino</name>
+        <description><![CDATA[Lat: 34.182622<br>Lon: -117.323801]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.182622</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.323801</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.323801,34.182622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, San Marcos</name>
+        <description><![CDATA[Lat: 33.130569<br>Lon: -117.159013]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.130569</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.159013</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.159013,33.130569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State University, Stanislaus</name>
+        <description><![CDATA[Lat: 37.52577<br>Lon: -120.852511]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.52577</value>
+          </Data>
+          <Data name="Lon">
+            <value>-120.852511</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -120.852511,37.52577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chapman University</name>
+        <description><![CDATA[Lat: 33.79302<br>Lon: -117.852518]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.79302</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.852518</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.852518,33.79302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Claremont McKenna College</name>
+        <description><![CDATA[Lat: 34.102154<br>Lon: -117.711188]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.102154</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.711188</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.711188,34.102154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cogswell Polytechnical College</name>
+        <description><![CDATA[Lat: 37.414049<br>Lon: -121.94087]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.414049</value>
+          </Data>
+          <Data name="Lon">
+            <value>-121.94087</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.94087,37.414049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Concordia University Irvine</name>
+        <description><![CDATA[Lat: 33.653665<br>Lon: -117.812305]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.653665</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.812305</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.812305,33.653665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dominican University of California</name>
+        <description><![CDATA[Lat: 37.981279<br>Lon: -122.512051]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.981279</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.512051</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.512051,37.981279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fresno Pacific University</name>
+        <description><![CDATA[Lat: 36.726831<br>Lon: -119.735199]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.726831</value>
+          </Data>
+          <Data name="Lon">
+            <value>-119.735199</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -119.735199,36.726831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harvey Mudd College</name>
+        <description><![CDATA[Lat: 34.106515<br>Lon: -117.709837]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.106515</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.709837</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.709837,34.106515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holy Names University</name>
+        <description><![CDATA[Lat: 37.802276<br>Lon: -122.187804]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.802276</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.187804</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.187804,37.802276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hope International University</name>
+        <description><![CDATA[Lat: 33.87616<br>Lon: -117.88573]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.87616</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.88573</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.88573,33.87616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Humboldt State University</name>
+        <description><![CDATA[Lat: 40.877481<br>Lon: -124.078293]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>40.877481</value>
+          </Data>
+          <Data name="Lon">
+            <value>-124.078293</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -124.078293,40.877481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John Paul the Great Catholic University</name>
+        <description><![CDATA[Lat: 33.12085<br>Lon: -117.082401]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.12085</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.082401</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.082401,33.12085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Sierra University</name>
+        <description><![CDATA[Lat: 33.910704<br>Lon: -117.500054]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.910704</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.500054</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.500054,33.910704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laguna College of Art and Design</name>
+        <description><![CDATA[Lat: 33.561448<br>Lon: -117.772564]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.561448</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.772564</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.772564,33.561448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Life Pacific College</name>
+        <description><![CDATA[Lat: 34.098705<br>Lon: -117.829388]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.098705</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.829388</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.829388,34.098705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Loma Linda University</name>
+        <description><![CDATA[Lat: 34.051241<br>Lon: -117.260605]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.051241</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.260605</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.260605,34.051241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Loyola Marymount University</name>
+        <description><![CDATA[Lat: 33.97085<br>Lon: -118.415744]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.97085</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.415744</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.415744,33.97085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Menlo College</name>
+        <description><![CDATA[Lat: 37.453475<br>Lon: -122.190797]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.453475</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.190797</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.190797,37.453475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mills College</name>
+        <description><![CDATA[Lat: 37.781425<br>Lon: -122.182294]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.781425</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.182294</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.182294,37.781425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount St. Mary’s University</name>
+        <description><![CDATA[Lat: 34.085315<br>Lon: -118.482879]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.085315</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.482879</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.482879,34.085315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National University</name>
+        <description><![CDATA[Lat: 32.909894<br>Lon: -117.243026]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>32.909894</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.243026</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.243026,32.909894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NewSchool of Architecture and Design</name>
+        <description><![CDATA[Lat: 32.71331<br>Lon: -117.153305]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>32.71331</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.153305</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.153305,32.71331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Notre Dame de Namur University</name>
+        <description><![CDATA[Lat: 37.517111<br>Lon: -122.284794]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.517111</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.284794</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.284794,37.517111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Occidental College</name>
+        <description><![CDATA[Lat: 34.127124<br>Lon: -118.210908]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.127124</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.210908</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.210908,34.127124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pacific Oaks College</name>
+        <description><![CDATA[Lat: 34.153382<br>Lon: -118.151323]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.153382</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.151323</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.151323,34.153382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pacific Union College</name>
+        <description><![CDATA[Lat: 38.570585<br>Lon: -122.440308]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>38.570585</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.440308</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.440308,38.570585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palo Alto University</name>
+        <description><![CDATA[Lat: 37.382216<br>Lon: -122.187437]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.382216</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.187437</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.187437,37.382216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepperdine University</name>
+        <description><![CDATA[Lat: 34.037786<br>Lon: -118.707077]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.037786</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.707077</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.707077,34.037786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pitzer College</name>
+        <description><![CDATA[Lat: 34.104107<br>Lon: -117.706675]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.104107</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.706675</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.706675,34.104107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point Loma Nazarene University</name>
+        <description><![CDATA[Lat: 32.718391<br>Lon: -117.250265]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>32.718391</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.250265</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.250265,32.718391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pomona College</name>
+        <description><![CDATA[Lat: 34.099027<br>Lon: -117.714556]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.099027</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.714556</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.714556,34.099027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Providence Christian College</name>
+        <description><![CDATA[Lat: 34.172467<br>Lon: -118.118842]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.172467</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.118842</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.118842,34.172467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Mary’s College of California</name>
+        <description><![CDATA[Lat: 37.840731<br>Lon: -122.109031]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.840731</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.109031</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.109031,37.840731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Samuel Merritt University</name>
+        <description><![CDATA[Lat: 37.82029<br>Lon: -122.266331]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.82029</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.266331</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.266331,37.82029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Diego Christian College</name>
+        <description><![CDATA[Lat: 32.842404<br>Lon: -116.978112]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>32.842404</value>
+          </Data>
+          <Data name="Lon">
+            <value>-116.978112</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -116.978112,32.842404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Diego State University</name>
+        <description><![CDATA[Lat: 32.77525<br>Lon: -117.071228]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>32.77525</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.071228</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.071228,32.77525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Francisco State University</name>
+        <description><![CDATA[Lat: 37.721224<br>Lon: -122.476799]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.721224</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.476799</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.476799,37.721224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Jose State University</name>
+        <description><![CDATA[Lat: 37.336569<br>Lon: -121.880621]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.336569</value>
+          </Data>
+          <Data name="Lon">
+            <value>-121.880621</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.880621,37.336569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Clara University</name>
+        <description><![CDATA[Lat: 37.348362<br>Lon: -121.93784]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.348362</value>
+          </Data>
+          <Data name="Lon">
+            <value>-121.93784</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.93784,37.348362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scripps College</name>
+        <description><![CDATA[Lat: 34.104147<br>Lon: -117.711294]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.104147</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.711294</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.711294,34.104147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Simpson University</name>
+        <description><![CDATA[Lat: 40.61334<br>Lon: -122.332981]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>40.61334</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.332981</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.332981,40.61334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soka University of America</name>
+        <description><![CDATA[Lat: 33.554546<br>Lon: -117.735344]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.554546</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.735344</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.735344,33.554546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonoma State University</name>
+        <description><![CDATA[Lat: 38.340274<br>Lon: -122.677066]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>38.340274</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.677066</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.677066,38.340274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southern California Institute of Architecture</name>
+        <description><![CDATA[Lat: 34.044215<br>Lon: -118.232799]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.044215</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.232799</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.232799,34.044215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stanford University</name>
+        <description><![CDATA[Lat: 37.429434<br>Lon: -122.167359]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.429434</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.167359</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.167359,37.429434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of California, Berkeley</name>
+        <description><![CDATA[Lat: 37.871918<br>Lon: -122.260463]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.871918</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.260463</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.260463,37.871918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of California, Davis</name>
+        <description><![CDATA[Lat: 38.539667<br>Lon: -121.749567]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>38.539667</value>
+          </Data>
+          <Data name="Lon">
+            <value>-121.749567</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.749567,38.539667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of California, Irvine</name>
+        <description><![CDATA[Lat: 33.648434<br>Lon: -117.841248]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.648434</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.841248</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.841248,33.648434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of California, Los Angeles</name>
+        <description><![CDATA[Lat: 34.068892<br>Lon: -118.443901]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.068892</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.443901</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.443901,34.068892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of California, Merced</name>
+        <description><![CDATA[Lat: 37.366237<br>Lon: -120.424944]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.366237</value>
+          </Data>
+          <Data name="Lon">
+            <value>-120.424944</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -120.424944,37.366237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of California, Riverside</name>
+        <description><![CDATA[Lat: 33.97246<br>Lon: -117.32741]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.97246</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.32741</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.32741,33.97246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of California, San Diego</name>
+        <description><![CDATA[Lat: 32.877749<br>Lon: -117.235866]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>32.877749</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.235866</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.235866,32.877749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of California, Santa Barbara</name>
+        <description><![CDATA[Lat: 34.416297<br>Lon: -119.846426]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.416297</value>
+          </Data>
+          <Data name="Lon">
+            <value>-119.846426</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -119.846426,34.416297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of California, Santa Cruz</name>
+        <description><![CDATA[Lat: 36.995584<br>Lon: -122.058801]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.995584</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.058801</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.058801,36.995584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of La Verne</name>
+        <description><![CDATA[Lat: 34.100855<br>Lon: -117.773262]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.100855</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.773262</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.773262,34.100855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Redlands</name>
+        <description><![CDATA[Lat: 34.064218<br>Lon: -117.163218]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.064218</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.163218</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.163218,34.064218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of San Diego</name>
+        <description><![CDATA[Lat: 32.770816<br>Lon: -117.192073]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>32.770816</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.192073</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.192073,32.770816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of San Francisco</name>
+        <description><![CDATA[Lat: 37.776618<br>Lon: -122.450477]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.776618</value>
+          </Data>
+          <Data name="Lon">
+            <value>-122.450477</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.450477,37.776618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Southern California</name>
+        <description><![CDATA[Lat: 34.021281<br>Lon: -118.284169]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.021281</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.284169</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.284169,34.021281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of the Pacific</name>
+        <description><![CDATA[Lat: 37.981424<br>Lon: -121.312301]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>37.981424</value>
+          </Data>
+          <Data name="Lon">
+            <value>-121.312301</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.312301,37.981424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of the West</name>
+        <description><![CDATA[Lat: 34.045985<br>Lon: -118.082964]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.045985</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.082964</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.082964,34.045985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vanguard University</name>
+        <description><![CDATA[Lat: 33.662686<br>Lon: -117.900911]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.662686</value>
+          </Data>
+          <Data name="Lon">
+            <value>-117.900911</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.900911,33.662686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westmont College</name>
+        <description><![CDATA[Lat: 34.450151<br>Lon: -119.662517]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.450151</value>
+          </Data>
+          <Data name="Lon">
+            <value>-119.662517</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -119.662517,34.450151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whittier College</name>
+        <description><![CDATA[Lat: 33.978773<br>Lon: -118.032299]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.978773</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.032299</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.032299,33.978773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>William Jessup University</name>
+        <description><![CDATA[Lat: 38.819728<br>Lon: -121.292312]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>38.819728</value>
+          </Data>
+          <Data name="Lon">
+            <value>-121.292312</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.292312,38.819728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodbury University</name>
+        <description><![CDATA[Lat: 34.208011<br>Lon: -118.341147]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.208011</value>
+          </Data>
+          <Data name="Lon">
+            <value>-118.341147</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.341147,34.208011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

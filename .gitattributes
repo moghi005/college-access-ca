@@ -1,0 +1,2 @@
+# Keep data files byte-for-byte (no line-ending conversion), so MANIFEST.csv checksums stay valid
+data/** -text
