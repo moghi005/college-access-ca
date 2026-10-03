@@ -4,7 +4,7 @@ Code for: Liu, K. and Moghimi, A. (in review). *[Paper title]*. TODO: add journa
 
 The notebooks predict high school college-going rates in California from school-level and neighborhood (census tract) variables. They use XGBoost, Random Forest, Lasso, and CatBoost with Optuna tuning, explain the models with SHAP, and map spatial patterns with Gi* and bivariate Moran's I. Two periods are compared: 2016-19 (pre-COVID) and 2020-23 (during COVID).
 
-> **Status:** work in progress. Two model notebooks are placeholders. See [`TODO.md`](TODO.md).
+> **Status:** all notebooks for the paper are included. Open items are in [`TODO.md`](TODO.md).
 
 ## Repository layout
 
@@ -12,7 +12,7 @@ The notebooks predict high school college-going rates in California from school-
 config.py            paths used by every notebook (edit DATA_DIR here)
 requirements.txt     Python packages
 data/raw/            raw input data actually used (about 0.9 GB, see data/README.md)
-data/derived/        AP/IB course counts per school (input; original code lost)
+data/derived/        AP/IB course counts per school (built by notebook 00)
 notebooks/
   01_prep/           enrollment, school locations, distance to UC/CSU
   02_clean/          school and neighborhood variables for each period
@@ -35,6 +35,7 @@ tools/               collect_data.py (builds data/raw from the original Data fol
 
 | # | Notebook | Purpose | Main output | Paper |
 |---|---|---|---|---|
+| 00 | `01_prep/00_ap_ib_courses` | AP/IB course counts, 2017-18 (optional; output already in `data/derived/`) | `data/derived/school_AP_IB_courses.pkl` | Table 1 |
 | 01 | `01_prep/01_enrollment_by_school` | College-going rate by school | `enrollment_by_school.pkl` | |
 | 02 | `01_prep/02_school_variables_2021` | School variables and locations | `school_related.pkl` | |
 | 03 | `01_prep/03_distance_to_colleges` | Distance to nearest UC and CSU | `distance_to_colleges.pkl` | |
@@ -45,8 +46,8 @@ tools/               collect_data.py (builds data/raw from the original Data fol
 | 08 | `03_models/08_pre_neighborhood` | 2016-19, neighborhood only | `26_*` | Fig 1b, 3B |
 | 09 | `03_models/09_pre_combined` | 2016-19, combined | `27_*` | Fig 1c, S1 |
 | 10 | `03_models/10_post_school` | 2020-23, school only | `42_*` | Fig 1d, 3A |
-| 11 | `03_models/11_post_neighborhood` | 2020-23, neighborhood only (**placeholder**) | `44_*` | Fig 1e, 3B |
-| 12 | `03_models/12_post_combined` | 2020-23, combined (**placeholder**) | `45_*` | Fig 1f, S1 |
+| 11 | `03_models/11_post_neighborhood` | 2020-23, neighborhood only | `44_*` | Fig 1e, 3B |
+| 12 | `03_models/12_post_combined` | 2020-23, combined | `45_*` | Fig 1f, S1 |
 | 13 | `03_models/13_pooled_school` | 2016-23, school only | `49_*`, `plots/schoolshap.png` | Fig 2A |
 | 14 | `03_models/14_pooled_neighborhood` | 2016-23, neighborhood only | `48_*`, `plots/neighborshap.png` | Fig 2B |
 | 15 | `03_models/15_pooled_combined` | 2016-23, combined | `38_*` | Sec 3.1 |

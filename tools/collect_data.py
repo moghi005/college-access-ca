@@ -34,6 +34,7 @@ FILES = [
     "SVI/SVI_Census_tracts/SVI_2020.csv",
     "SVI/SVI_Census_tracts/SVI_2022.csv",
     "school_related/CEnroll2021.txt",
+    "school_related/ClassCodes.xlsx",
     "school_related/StaffCred18.txt",
     "school_related/StaffDemo18.txt",
     "school_related/StaffSchoolFTE18.txt",

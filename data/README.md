@@ -2,7 +2,7 @@
 
 ## What is in this repo
 
-- `derived/school_AP_IB_courses.pkl` (and a `.csv` copy): number of AP and IB courses offered per school. The code that built this file was not kept. It was derived from CDE "Courses Taught" files (`CoursesTaught*.txt`) and `ClassCodes.xlsx`. Used by notebooks 02, 04, 05.
+- `derived/school_AP_IB_courses.pkl` (and a `.csv` copy): number of AP and IB courses offered per school, from the CDE "Courses Taught" file for 2017-18 (the most recent year available) and `ClassCodes.xlsx`. Built by `notebooks/01_prep/00_ap_ib_courses.ipynb`. Used by notebooks 02, 04, 05. The source file `CoursesTaught18.Txt` (200 MB) is over GitHub's file limit and is not included; download it from CDE to rebuild.
 
 ## Raw data (`raw/`)
 
@@ -28,7 +28,7 @@ CA_school_directory/
   CDESchoolDirectoryExport.txt
   Colleges_in_California.kml
 school_related/
-  CEnroll2021.txt
+  CEnroll2021.txt  ClassCodes.xlsx
   StaffCred18.txt  StaffDemo18.txt  StaffSchoolFTE18.txt
   absent_2021.txt  free_reduced_2021.xlsx  essappe2021data.xlsx
   test_scores/  sb_ca2021entities_csv.txt  cast_ca2021_1_csv_v2.txt  cast_ca2021entities_csv.txt
@@ -59,6 +59,7 @@ geographic_boundaries/
 | Per-pupil expenditure | `essappe*data.xlsx` | CDE, https://www.cde.ca.gov/fg/ac/es/essappedata.asp |
 | Smarter Balanced / CAST test results | `sb_ca*.txt`, `cast_ca*.txt` (2021-22 and 2022-23: All Students subsets, see above) | CAASPP research files, https://caaspp-elpac.ets.org |
 | Enrollment, staff | `CEnroll2021.txt`, `Staff*18.txt` | CDE downloadable files |
+| Courses taught (AP/IB counts) | `ClassCodes.xlsx` (in repo), `CoursesTaught18.Txt` (not in repo, 200 MB) | CDE downloadable files |
 | School directory | `CDESchoolDirectoryExport.txt` | CDE, https://www.cde.ca.gov/SchoolDirectory/ |
 | College locations | `Colleges_in_California.kml` | TODO: add source |
 | Census tract variables | `nhgis00*.csv` | IPUMS NHGIS, https://www.nhgis.org (ACS 5-year 2014-18 and 2019-23). Check IPUMS terms before redistributing; citation required. |
